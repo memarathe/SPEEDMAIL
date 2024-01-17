@@ -1,0 +1,16 @@
+{
+  "title": "Local Deliveries, on time",
+  "text": "We are ready to help you with local deliveries. Our software allows you to send a package to your customer in a few given steps, and we will take care of the rest!",
+  "section": [
+    {
+      "title": "Why Speedmail?",
+      "content": "We know how important it is to deliver your package on time on a tight deadline. We are here to help you with that!",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "From A to B, we've got you covered.",
+      "content": "Depending on the size of your package, we will choose the best option to deliver your package on time.",
+      "icon": "notes.svg"
+    }
+  ]
+}

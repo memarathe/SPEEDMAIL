@@ -1,0 +1,70 @@
+.App {
+  background: #282c34;
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  flex-direction: column;
+  font-family: Arial, sans-serif;
+  font-size: calc(10px + 2vmin);
+  padding: 20px;
+  align-items: center;
+  color: rgb(85, 82, 82)
+}
+
+.form-container {
+  width: 490px;
+  background-color: rgb(247, 243, 243);
+  margin:0cqmin;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  padding: 30px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+input[type="text"],
+select,
+input[type="email"] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #060606;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+#submit-button,
+#submit-button1,
+#submit-buttonAD,
+#submit-buttonSearch,
+#submit-buttonClear {
+  width: 100%;
+  background-color: #282c34;
+  color: rgb(243, 239, 239);
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#submit-button:hover,
+#submit-button1:hover,
+#submit-buttonAD:hover,
+#submit-buttonSearch:hover,
+#submit-buttonClear:hover {
+  background-color: #64cf54;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  color: #555;
+}
+
+label {
+  color: #111010;
+  font-size: 25px;
+  padding: 8px;
+}
+
+/* Add the rest of your CSS styles as needed */
